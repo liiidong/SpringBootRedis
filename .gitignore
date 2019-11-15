@@ -1,3 +1,5 @@
 
 learn-redis/mvnw
 learn-redis/mvnw.cmd
+/learn-redis/.mvn
+learn-redis/.mvn/wrapper/MavenWrapperDownloader.java
