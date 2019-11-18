@@ -3,3 +3,11 @@ learn-redis/mvnw
 learn-redis/mvnw.cmd
 /learn-redis/.mvn
 learn-redis/.mvn/wrapper/MavenWrapperDownloader.java
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/codeStyles/Project.xml
+.idea/dbnavigator.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/SpringBootRedis.iml
+.idea/vcs.xml
