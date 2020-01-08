@@ -1,4 +1,4 @@
-package com.enough.learn.learn.redis.utils;
+package com.enough.learn.redis.utils;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

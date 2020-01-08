@@ -1,4 +1,4 @@
-package com.enough.learn.learn.redis.config;
+package com.enough.learn.redis.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

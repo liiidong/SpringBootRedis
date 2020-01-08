@@ -1,6 +1,6 @@
-package com.enough.learn.learn.redis.controller;
+package com.enough.learn.redis.controller;
 
-import com.enough.learn.learn.redis.entity.MessageResult;
+import com.enough.learn.redis.entity.ReturnResult;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.ui.ModelMap;
@@ -17,8 +17,8 @@ public abstract class BaseController<T> {
 
     protected final Logger logger = LoggerFactory.getLogger(this.getClass());
 
-    public MessageResult <T> getMessageResult(String msg, MessageResult.Status status, T data, String newResource) {
-        MessageResult <T> result = new MessageResult <>();
+    public ReturnResult <T> getMessageResult(String msg, ReturnResult.Status status, T data, String newResource) {
+        ReturnResult <T> result = new ReturnResult <>();
         result.setMsg(msg);
         result.setStatus(status);
         result.setData(data);

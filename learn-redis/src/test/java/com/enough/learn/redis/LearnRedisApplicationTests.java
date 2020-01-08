@@ -1,4 +1,4 @@
-package com.enough.learn.learn.redis;
+package com.enough.learn.redis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

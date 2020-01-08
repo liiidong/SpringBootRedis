@@ -1,6 +1,6 @@
-package com.enough.learn.learn.redis;
+package com.enough.learn.redis;
 
-import com.enough.learn.learn.redis.utils.CodecUtils;
+import com.enough.learn.redis.utils.CodecUtils;
 import org.junit.jupiter.api.Test;
 
 /**

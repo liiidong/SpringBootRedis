@@ -1,4 +1,4 @@
-package com.enough.learn.learn.redis;
+package com.enough.learn.redis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

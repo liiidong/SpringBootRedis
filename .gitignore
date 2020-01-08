@@ -11,3 +11,4 @@ learn-redis/.mvn/wrapper/MavenWrapperDownloader.java
 .idea/modules.xml
 .idea/SpringBootRedis.iml
 .idea/vcs.xml
+/.idea
